@@ -1,0 +1,10 @@
+firebase-admin>=6.4.0
+pandas>=2.0.0
+numpy>=1.24.0
+ccxt>=4.0.0
+scikit-learn>=1.3.0
+tensorflow>=2.13.0  # For reinforcement learning
+ta>=0.10.0  # Technical analysis indicators
+schedule>=1.2.0  # For scheduling tasks
+python-dotenv>=1.0.0
+loguru>=0.7.0  # Enhanced logging
